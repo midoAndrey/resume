@@ -22,7 +22,7 @@
     box-shadow: 0px  4px 74px rgba(69,69,69, 0.09);
     border-radius: 30px;
 }
-.instagram, .mail, .phone, .telegram, .eye {
+.link, .mail, .phone, .telegram, .eye {
     width: 25px;
     height: 25px;
 }
